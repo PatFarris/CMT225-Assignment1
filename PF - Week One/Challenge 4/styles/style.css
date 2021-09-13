@@ -1,0 +1,28 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    width: 30vw;
+    background-color: cornsilk;
+    border: 3px solid black;
+    text-align: center;
+    padding: 5px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.disp {
+    width: 30vw;
+    height: 55vh;
+    text-align: center;
+    background-color: cornsilk;
+    border: 3px solid black;
+    padding: 1rem;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+h2, h3 {
+    display: inline-block;
+}
